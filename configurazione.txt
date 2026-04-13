@@ -1,1 +1,2 @@
 Versione iniziale della configurazione
+Modifica introdotta successivamente con VS
